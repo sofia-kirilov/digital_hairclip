@@ -37,6 +37,8 @@ digital-hairclip/
 ```
 
 ## 1. Print the case
+<img width="801" height="598" alt="Screenshot 2026-11-01 at 7 58 30 PM" src="https://github.com/user-attachments/assets/a30dfd5e-aab6-4171-97a3-abe9743f6096" />
+<img width="578" height="343" alt="Screenshot 2026-11-01 at 8 00 12 PM" src="https://github.com/user-attachments/assets/cb367e37-48ce-4af2-8701-310a2d07548a" />
 
 1. Measure your board and battery with calipers. If your numbers differ from the defaults, edit the top of `cad/hairclip_case.py` and run:
    ```
@@ -56,6 +58,7 @@ If the lid is too tight or too loose, change `LID_CLR` and reprint just the lid.
 2. In Library Manager, install **LovyanGFX**. You don't need to edit any config files; the display pins are set in the sketch.
 3. Open `firmware/HairClip/HairClip.ino` and select the board **ESP32 Dev Module**. Then upload.
    - If the upload won't start, hold the GPIO0 button while you plug in USB.
+
 
 ## 3. Assemble
 
