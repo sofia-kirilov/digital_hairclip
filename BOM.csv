@@ -1,9 +1,9 @@
-Item,Qty,Spec,Unit price (USD),Total (USD),Source,Notes
-LilyGO T-Display,1,"ESP32, 1.14in ST7789 IPS 135x240, 16MB flash, CH9102F, USB-C",19.95,19.95,https://protosupplies.com/product/lilygo-esp32-t-display-development-board/,Original version (not T-Display S3). Comes with a JST 1.25mm battery cable.
-LiPo battery 602540,1,"3.7V, ~500mAh, 6 x 25 x 40 mm, 2-pin JST 1.25mm plug, with protection circuit",7.00,7.00,,Estimated price. Check plug size and wire polarity before connecting.
-Snap hair clip,1,Metal snap clip up to 46 x 13 mm,1.00,1.00,,Usually sold in packs of 10 or more (~$5)
-Gel super glue,1,Cyanoacrylate gel,4.00,4.00,,For attaching the clip and beads
-PLA filament,1,"About 10 g for shell and lid",0.25,0.25,,Printed on a Bambu Lab printer
-Beads / charms (optional),1,Flat-backed decorative beads,4.00,4.00,,Decoration
-USB-C cable,1,Data + power,0.00,0.00,,Already owned
-Total,,,,36.20,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+LilyGO T-Display,1,https://protosupplies.com/product/lilygo-esp32-t-display-development-board/,$19.95,$19.95,
+LiPo battery 602540,1,,$7.00,$7.00,
+Snap hair clip,1,,$1.00,$1.00,
+Gel super glue,1,,$4.00,$4.00,
+PLA filament,1,,$0.25,$0.25,
+Beads / charms (optional),1,,$4.00,$4.00,
+USB-C cable,1,,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
